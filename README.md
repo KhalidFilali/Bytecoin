@@ -1,0 +1,2 @@
+# Bytecoin
+work in progress
